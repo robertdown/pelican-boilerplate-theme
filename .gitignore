@@ -1,0 +1,3 @@
+theme/static/css/*.css
+bower_components
+node_modules
